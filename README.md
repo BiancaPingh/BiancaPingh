@@ -1,6 +1,6 @@
 # Hi, I’m Bianca Pinghireac 👋
 
-I’m a 1st-year Applied Computer Science student passionate about **computer systems, OOP, and software development**.
+I’m a 2st-year Applied Computer Science student passionate about **computer systems, OOP, and software development**.
 
 ## 🧰 Skills & Tools
 
