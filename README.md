@@ -21,8 +21,7 @@ I’m a 1st-year Applied Computer Science student passionate about **computer sy
 - **[File Organization Tool](https://github.com/BiancaPingh/FileOrganizationTool)** – Python script for sorting files by type or keyword.
 
 ## 📈 GitHub Stats
-
-![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiancaPingh&show_icons=true&theme=default)  
+ 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaPingh&layout=compact&theme=default)
 
 ## 🌱 Currently Learning
