@@ -1,6 +1,6 @@
 # Hi, I’m Bianca Pinghireac
 
-I’m a 2nd-year Applied Computer Science student passionate about **computer systems, OOP, and software development**.
+I’m a 2nd-year Applied Computer Science student passionate about **computer systems, algorithms, and software development**.
 
 ## Skills & Tools
 
@@ -32,7 +32,8 @@ I’m a 2nd-year Applied Computer Science student passionate about **computer sy
 - Advanced computer architecture and pipeline visualization  
 - Full-stack development with React and Electron  
 - Algorithm optimization and data structures  
-- Operating systems internals
+- Databases
+- C++13 and newer
 
 ---
 
